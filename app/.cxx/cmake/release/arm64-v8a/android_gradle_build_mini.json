@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/tal/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cmake/release/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/tal/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cmake/release/arm64-v8a --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so"
+    }
+  }
+}

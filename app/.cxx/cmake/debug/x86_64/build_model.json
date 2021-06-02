@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest",
+      "sdkFolder": "/Users/tal/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app",
+      "makeFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/.cxx",
+      "cxxFolder": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx",
+      "ndkFolder": "/Users/tal/Library/Android/sdk/ndk/20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "debug",
+    "soFolder": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cmake/debug/x86_64",
+  "jsonFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cmake/debug/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cxx/debug/x86_64",
+  "objFolder": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/build/intermediates/cmake/debug/obj/x86_64",
+  "buildCommandFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cmake/debug/x86_64/build_command.txt",
+  "buildOutputFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cmake/debug/x86_64/build_output.txt",
+  "modelOutputFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cmake/debug/x86_64/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cxx/debug/x86_64/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cxx/debug/x86_64/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cxx/debug/x86_64/build_generation_state.json",
+    "cacheKeyFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cxx/debug/x86_64/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cxx/debug/x86_64/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cxx/debug/x86_64/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cxx/debug/x86_64/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cmake/debug/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cmake/debug/x86_64/compile_commands.json"
+}
