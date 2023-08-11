@@ -16,6 +16,19 @@ android {
       }
     }
   }
+
+  signingConfigs {
+
+    release {
+      storeFile file("keystore.jks")
+      storePassword "android"
+      keyAlias "android"
+      keyPassword "android"
+      v1SigningEnabled true
+      v2SigningEnabled true
+    }
+  }
+
   buildTypes {
     release {
       minifyEnabled false
