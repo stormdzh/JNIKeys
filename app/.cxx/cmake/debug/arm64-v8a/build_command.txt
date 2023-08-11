@@ -1,15 +1,21 @@
-Executable : /Users/tal/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+Executable : /data/home/ubuntu/tools/AndroidSdk/Sdk​/cmake/3.10.2.4988404/bin/cmake
 arguments : 
--H/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app
--B/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cmake/debug/arm64-v8a
--DANDROID_ABI=arm64-v8a
--DANDROID_PLATFORM=android-16
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/build/intermediates/cmake/debug/obj/arm64-v8a
+-H/home/ubuntu/AndroidProjects/mine/JNIKeys/app
+-DCMAKE_FIND_ROOT_PATH=/home/ubuntu/AndroidProjects/mine/JNIKeys/app/.cxx/cmake/debug/prefab/arm64-v8a/prefab
 -DCMAKE_BUILD_TYPE=Debug
--DANDROID_NDK=/Users/tal/Library/Android/sdk/ndk/20.1.5948944
--DCMAKE_CXX_FLAGS=
--DCMAKE_TOOLCHAIN_FILE=/Users/tal/Library/Android/sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake
--DCMAKE_MAKE_PROGRAM=/Users/tal/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
--GAndroid Gradle - Ninja
+-DCMAKE_TOOLCHAIN_FILE=/data/home/ubuntu/tools/AndroidSdk/Sdk​/ndk/21.0.6113669/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=/data/home/ubuntu/tools/AndroidSdk/Sdk​/ndk/21.0.6113669
+-DANDROID_PLATFORM=android-16
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_ANDROID_NDK=/data/home/ubuntu/tools/AndroidSdk/Sdk​/ndk/21.0.6113669
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/ubuntu/AndroidProjects/mine/JNIKeys/app/build/intermediates/cmake/debug/obj/arm64-v8a
+-DCMAKE_MAKE_PROGRAM=/data/home/ubuntu/tools/AndroidSdk/Sdk​/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=16
+-B/home/ubuntu/AndroidProjects/mine/JNIKeys/app/.cxx/cmake/debug/arm64-v8a
+-GNinja
 jvmArgs : 
 
+Build command args:

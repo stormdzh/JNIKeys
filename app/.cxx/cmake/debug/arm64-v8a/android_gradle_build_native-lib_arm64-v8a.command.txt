@@ -1,8 +1,7 @@
-Executable : /Users/tal/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+Executable : /data/home/ubuntu/tools/AndroidSdk/Sdk​/cmake/3.10.2.4988404/bin/ninja
 arguments : 
---build
-/Users/tal/Desktop/Desktop-old/test/DzhSoTest/app/.cxx/cmake/debug/arm64-v8a
---target
+-C
+/home/ubuntu/AndroidProjects/mine/JNIKeys/app/.cxx/cmake/debug/arm64-v8a
 native-lib
 jvmArgs : 
 
